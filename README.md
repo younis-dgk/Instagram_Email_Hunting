@@ -10,6 +10,7 @@ pip install cython setuptools wheel
 pip install fake_useragent
 pip install user_agent
 pip install colorama
+pip install telegram
 pip install cfonts
 pip install bs4
 pip install rich
@@ -26,9 +27,9 @@ pip install aiohttp
 ```python
 cd
 clear
-rm -rf instagram_Email_Hunting
-git clone https://github.com/younis-dgk/instagram_Email_Hunting
-cd instagram_Email_Hunting
+rm -rf Instagram_Email_Hunting
+git clone https://github.com/younis-dgk/Instagram_Email_Hunting
+cd Instagram_Email_Hunting
 python Paid.py
 ```
 
